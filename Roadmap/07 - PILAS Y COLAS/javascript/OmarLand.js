@@ -82,6 +82,8 @@ class Stack {
   console.log(queue.peek()); // 'John Cena'
   console.log(queue.isEmpty()); // false
   console.log(queue.print()); // ['John Cena', 'Stone Cold Steve Austin']
+
+  
 /*
  * DIFICULTAD EXTRA (opcional):
  * - Utilizando la implementación de pila y cadenas de texto, simula el mecanismo adelante/atrás
